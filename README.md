@@ -12,5 +12,5 @@ Pseudogenes are regarded as “junk” DNA, representing vestigial functions no 
 
 ## Funding
 
-This work was supported by Project BeXyl (Beyond Xylella, Integrated Management Strategies for Mitigating Xylella fastidiosa impact in Europe; Grant ID No 101060593) from the European Union’s Horizon Action ‘Food, Bioeconomy Natural Resources, Agriculture and Environment’ program. We also acknowledge support from the Alabama Agricultural Experiment Station (AAES) (L.D., N.P).
+This work was supported by Project BeXyl (Beyond *Xylella*, Integrated Management Strategies for Mitigating *Xylella fastidiosa* impact in Europe; Grant ID No 101060593) from the European Union’s Horizon Action ‘Food, Bioeconomy Natural Resources, Agriculture and Environment’ program. We also acknowledge support from the Alabama Agricultural Experiment Station (AAES) (L.D., N.P).
 
