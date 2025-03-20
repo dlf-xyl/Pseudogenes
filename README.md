@@ -15,8 +15,12 @@ Pseudogenes are regarded as “junk” DNA, representing vestigial functions no 
 Pseudogene sequences obtained for all 151 strains of *Xylella fastidiosa* are included in four different folders listed as Pseudogene_sequences_set1, Pseudogene_sequences_set2, Pseudogene_sequences_set3, and Pseudogene_sequences_set4.
 
 Scripts folder contains all the scripts used for the analysis.
+
 Script_1.docx contains scripts for CheckM (For assessing the quality of genomes),Prokka (Annotated genome file), and Pseudofinder (to obtain pseudogene sequences from genomes).
-Script_2.docx 
+
+Script_2.docx contains scripts for Roary (to generate a core gene alignment) and RAxML ( to generate a phylogenetic tree with a core gene alignment).
+
+
 
 
 ## Funding
