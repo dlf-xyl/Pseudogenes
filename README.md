@@ -20,7 +20,7 @@ Script_1.docx contains scripts for CheckM (For assessing the quality of genomes)
 
 Script_2.docx contains scripts for Roary (to generate a core gene alignment) and RAxML ( to generate a phylogenetic tree with a core gene alignment).
 
-
+Script_3.docx contains scripts for CRB-BLAST (used for comparison of pseudogene sequences) and seqtk (extracting subset of sequences from full sequences).
 
 
 ## Funding
